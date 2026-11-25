@@ -28,8 +28,8 @@ body{font-family:sans-serif;background:#111;padding:16px;margin:0;color:#111}
 <div class="card">
 <h3 style="margin:0">🏪 Kedai Yang Dah Guna:</h3>
 <p style="margin:8px 0">🔥 <b>ARAPP DEMO</b> - Aktif</p>
-<a class="btn-purple" href="https://bottol-garage.onrender.com">➡️ MASUK BOTTOL GARAGE</a>
-<p class="small">Link ni khas untuk staff Bottol Garage sahaja. Kedai lain tak boleh access data Bottol.</p>
+<a class="btn-purple" href="https://ARAPP DEMO-garage.onrender.com">➡️ MASUK ARAPP DEMO GARAGE</a>
+<p class="small">Link ni khas untuk staff ARAPP DEMO Garage sahaja. Kedai lain tak boleh access data ARAPP DEMO.</p>
 </div>
 
 <div class="card">
