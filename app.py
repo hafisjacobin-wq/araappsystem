@@ -21,13 +21,13 @@ body{font-family:sans-serif;background:#111;padding:16px;margin:0;color:#111}
 <p style="margin-top:-10px">Sistem Pengurusan Bengkel Motor</p>
 <h2 style="color:red">Trial 7 Hari FREE</h2>
 <h1 style="font-size:42px">RM49 <span style="font-size:16px">/ Bulan</span></h1>
-<p style="text-align:left">✅ Unlimited Motor Masuk<br>✅ Unlimited Pomen<br>✅ Approval Tokey<br>✅ WhatsApp Customer Auto<br>✅ Rekod Duit Harian<br>✅ Arkib Motor Lama</p>
+<p style="text-align:left">✅ Unlimited Motor Masuk<br>✅ Unlimited Pomen<br>✅ Approval Boss<br>✅ WhatsApp Customer Auto<br>✅ Rekod Duit Harian<br>✅ Arkib Motor Lama</p>
 <a class="btn" href="https://toyyibpay.com/Langanan-Bulanan">💳 BAYAR RM49 SEKARANG</a>
-<a class="btn-green" href="https://wa.me/60123456789?text=Salam%20saya%20nak%20subscribe%20Arapp%20Garage%20RM49">📱 WHATSAPP ADMIN - NAK SUBSCRIBE</a>
+<a class="btn-green" href="https://wa.me/60193490003?text=Salam%20saya%20nak%20subscribe%20Arapp%20Garage%20RM49">📱 WHATSAPP ADMIN - NAK SUBSCRIBE</a>
 
 <div class="card">
 <h3 style="margin:0">🏪 Kedai Yang Dah Guna:</h3>
-<p style="margin:8px 0">🔥 <b>BOTTOL GARAGE</b> - Aktif</p>
+<p style="margin:8px 0">🔥 <b>ARAPP DEMO</b> - Aktif</p>
 <a class="btn-purple" href="https://bottol-garage.onrender.com">➡️ MASUK BOTTOL GARAGE</a>
 <p class="small">Link ni khas untuk staff Bottol Garage sahaja. Kedai lain tak boleh access data Bottol.</p>
 </div>
@@ -35,7 +35,7 @@ body{font-family:sans-serif;background:#111;padding:16px;margin:0;color:#111}
 <div class="card">
 <h3 style="margin:0">❓ Macam mana nak ada link kedai sendiri?</h3>
 <p>1. WhatsApp Admin<br>2. Bayar RM49<br>3. Admin buatkan link kedai kau sendiri<br>Contoh: <b>ali-garage.onrender.com</b></p>
-<a class="btn-green" href="https://wa.me/60123456789?text=Salam%20saya%20nak%20buka%20link%20kedai%20sendiri">📱 NAK BUKA KEDAI SENDIRI</a>
+<a class="btn-green" href="https://wa.me/60193490003?text=Salam%20saya%20nak%20buka%20link%20kedai%20sendiri">📱 NAK BUKA KEDAI SENDIRI</a>
 </div>
 
 <p class="small">© 2026 ARAPP SYSTEM Garage</p>
