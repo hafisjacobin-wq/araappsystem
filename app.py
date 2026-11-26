@@ -28,7 +28,7 @@ body{font-family:sans-serif;background:#111;padding:16px;margin:0;color:#111}
 <div class="card">
 <h3 style="margin:0">🏪 Kedai Yang Dah Guna:</h3>
 <p style="margin:8px 0">🔥 <b>ARAPP DEMO</b> - Aktif</p>
-<a class="btn-purple" href="https://arappdemo-garage.onrender.com">➡️ MASUK ARAPP DEMO</a>
+<a class="btn-purple" href="https://wa.me/60193490003">📱 MASUK ARAPP DEMO</a>
 <p class="small">Link ni khas untuk staff ARAPP DEMO sahaja. Kedai lain tak boleh access data ARAPP DEMO.</p>
 </div>
 
